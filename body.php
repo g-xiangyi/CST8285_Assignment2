@@ -8,20 +8,6 @@
     $data_course = mysqli_fetch_assoc($result_course);
 ?>
 
-<section class="engine"><a href="https://mobirise.me/x">free css templates</a></section><section class="header1 cid-qVlmRNyE21 mbr-parallax-background" id="header1-f">    
-
-    <div class="container">
-        <div class="row justify-content-md-center">
-            <div class="mbr-white col-md-10">
-                <h1 class="mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style display-1">KungFu Master</h1>
-                
-                <p class="mbr-text align-center pb-3 mbr-fonts-style display-5">&nbsp;High Quality, easy-to-follow, in-depth and structured learning&nbsp;</p>
-                
-            </div>
-        </div>
-    </div>
-</section>
-
 <section class="cid-qVlkxyAfTj" id="pricing-tables1-d">
     <div class="container">
 
